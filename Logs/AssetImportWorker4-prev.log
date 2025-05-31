@@ -1,0 +1,403 @@
+Using pre-set license
+Built from '6000.1/staging' branch; Version is '6000.1.1f1 (7197418f847b) revision 7444289'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 16050 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+Date: 2025-05-31T12:30:28Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.1.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/subha/Fav game implement
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+51971
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/subha/Fav game implement
+C:/Users/subha/Fav game implement
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [3076]  Target information:
+
+Player connection [3076]  * "[IP] 192.168.74.72 [Port] 0 [Flags] 2 [Guid] 3519329535 [EditorId] 3519329535 [Version] 1048832 [Id] WindowsEditor(7,Samriddhi) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [3076] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [3076] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 7.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.1.1f1 (7197418f847b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/subha/Fav game implement/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 3050 4GB Laptop GPU (ID=0x25ab)
+    Vendor:          NVIDIA
+    VRAM:            3965 MB
+    App VRAM Budget: 3370 MB
+    Driver:          32.0.15.6614
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56988
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.006168 seconds.
+- Loaded All Assemblies, in  0.416 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 255 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.632 seconds
+Domain Reload Profiling: 1046ms
+	BeginReloadAssembly (157ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (168ms)
+		LoadAssemblies (155ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (164ms)
+			TypeCache.Refresh (163ms)
+				TypeCache.ScanAssembly (148ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (632ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (584ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (360ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (51ms)
+			ProcessInitializeOnLoadAttributes (120ms)
+			ProcessInitializeOnLoadMethodAttributes (49ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.808 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.072 seconds
+Domain Reload Profiling: 1876ms
+	BeginReloadAssembly (154ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (580ms)
+		LoadAssemblies (435ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (238ms)
+			TypeCache.Refresh (179ms)
+				TypeCache.ScanAssembly (163ms)
+			BuildScriptInfoCaches (45ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1072ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (887ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (138ms)
+			ProcessInitializeOnLoadAttributes (689ms)
+			ProcessInitializeOnLoadMethodAttributes (40ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 204 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6366 unused Assets / (4.8 MB). Loaded Objects now: 7066.
+Memory consumption went from 170.6 MB to 165.8 MB.
+Total: 7.309500 ms (FindLiveObjects: 1.056200 ms CreateObjectMapping: 0.427600 ms MarkObjects: 3.798500 ms  DeleteObjects: 2.026300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 93126.024572 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/TTF
+  artifactKey: Guid(523ac51e4b33e844e970fed8b07cd804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/TTF using Guid(523ac51e4b33e844e970fed8b07cd804) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '77a7805a1820f6130092905550692b66') in 0.0136805 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.632937 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Black.ttf
+  artifactKey: Guid(d2f070cd5ff727444b009fe4caa8fe76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Black.ttf using Guid(d2f070cd5ff727444b009fe4caa8fe76) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2cc3444f306205953319895a80d28ba9') in 0.4575555 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Hairline.ttf
+  artifactKey: Guid(0a202e4ae9b21fb40b3b681fda3f0f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Hairline.ttf using Guid(0a202e4ae9b21fb40b3b681fda3f0f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c913c102a6e7c7c2754b42a8d9d5448e') in 0.0123786 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Bold.ttf
+  artifactKey: Guid(d2bab0e91adb281498a9f5420ef7d2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Bold.ttf using Guid(d2bab0e91adb281498a9f5420ef7d2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ac48497e1a3a704c67b5970217b7cd4f') in 0.0153099 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 223.699871 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e3840d548b1efdb4c70712420807deb8') in 0.0137743 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.025856 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd8ee3cbc98c5ae019644ac56773f499') in 0.0801857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5dc610e9e44f341773e360bd05792a59') in 0.0491762 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d1267e5bc8a60647a37e21ae8d4045f') in 0.0448836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.495142 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Black SDF.asset
+  artifactKey: Guid(ce6856b323a319240a443a7b67025890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Black SDF.asset using Guid(ce6856b323a319240a443a7b67025890) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+ -> (artifact id: 'a139839742838307fdd86edb61bd05e8') in 0.0836481 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.363934 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame
+  artifactKey: Guid(63716a4cb6a7bbf40809574a2b7343c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame using Guid(63716a4cb6a7bbf40809574a2b7343c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dc5167427db500a9b22b46260e4a32fb') in 0.0005222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.510951 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px
+  artifactKey: Guid(ae6e3d2c78716bc41ba10bcc43c63777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px using Guid(ae6e3d2c78716bc41ba10bcc43c63777) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c149d60225249bdcd8d128a710bbdf3e') in 0.0004298 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050303 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  00t  0s - fill.png
+  artifactKey: Guid(37e6af6d55dcaf94e88d1e175598e27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  00t  0s - fill.png using Guid(37e6af6d55dcaf94e88d1e175598e27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '842c3db91882d817cd254dfe5f728b75') in 0.0391114 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  25t  0s - fill.png
+  artifactKey: Guid(8984559016cfdd947afe22df2a09d2ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  25t  0s - fill.png using Guid(8984559016cfdd947afe22df2a09d2ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af16a038d93a2329519a25f53314ca18') in 0.048532 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  100t  50s - frame.png
+  artifactKey: Guid(3c59b653fff6c70488d6cc1fd1d27848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  100t  50s - frame.png using Guid(3c59b653fff6c70488d6cc1fd1d27848) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b057195226363dc215768b5cca57a7ad') in 0.0563522 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  80t  20s.png
+  artifactKey: Guid(bcb9d9a39728fb745860aa3979a9ab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  80t  20s.png using Guid(bcb9d9a39728fb745860aa3979a9ab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f369d14d869b77214738c241cfee744') in 0.0587403 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  80t  50s.png
+  artifactKey: Guid(e6f72b4932d7e7847ad3dbfae662acf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  80t  50s.png using Guid(e6f72b4932d7e7847ad3dbfae662acf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f5ef0d60a5c07418244200553ba0a471') in 0.0170058 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  80t  5s.png
+  artifactKey: Guid(8c106227779f90c479568d6d378a428a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  80t  5s.png using Guid(8c106227779f90c479568d6d378a428a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '53416fc6900a9cd2ddf1f801c85f4a29') in 0.0107377 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  50t  10s.png
+  artifactKey: Guid(e7ced1738818f9c4db48e23a59c10a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  50t  10s.png using Guid(e7ced1738818f9c4db48e23a59c10a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a25490ae7a822f9aab1463214b6053ad') in 0.0117499 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  50t  0s - fill.png
+  artifactKey: Guid(91aa06ef39161ff45a5feea91a333645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  50t  0s - fill.png using Guid(91aa06ef39161ff45a5feea91a333645) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1c7310d7600691e9bc805df3b492882d') in 0.0162175 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  25t  50s.png
+  artifactKey: Guid(42f7c96509c9c9d4aa419ae3dd440a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  25t  50s.png using Guid(42f7c96509c9c9d4aa419ae3dd440a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ad821d4b627a5415d6a21e64feb219d') in 0.0834609 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  50t  5s.png
+  artifactKey: Guid(fd504ce6c8d1f0248961fde06d934e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  50t  5s.png using Guid(fd504ce6c8d1f0248961fde06d934e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9473f6e813b9278420bc4bd078581740') in 0.0098541 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  100t  20s - frame.png
+  artifactKey: Guid(90d280bd7bdebb8408d216e56b984491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  100t  20s - frame.png using Guid(90d280bd7bdebb8408d216e56b984491) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33bad6fcf744431ae41308d8a74a692c') in 0.0090332 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  00t  10s.png
+  artifactKey: Guid(d474c929123057e4aa307f0be10b79a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  00t  10s.png using Guid(d474c929123057e4aa307f0be10b79a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '690a620497adaa139fb07b2706aee63d') in 0.0132246 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  80t  10s.png
+  artifactKey: Guid(183446d6a8019594e9e7c3ae85e571db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 black frame/Rectangle 512x512 I Round 05px/Rectangle  05r  80t  10s.png using Guid(183446d6a8019594e9e7c3ae85e571db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f638d5f38d0a4e6ee71cf04f447c61c5') in 0.0112736 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

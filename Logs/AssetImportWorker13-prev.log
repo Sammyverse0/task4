@@ -1,0 +1,427 @@
+Using pre-set license
+Built from '6000.1/staging' branch; Version is '6000.1.1f1 (7197418f847b) revision 7444289'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 16050 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+Date: 2025-05-31T13:06:04Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.1.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker13
+-projectPath
+C:/Users/subha/Fav game implement
+-logFile
+Logs/AssetImportWorker13.log
+-srvPort
+51971
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/subha/Fav game implement
+C:/Users/subha/Fav game implement
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [20856]  Target information:
+
+Player connection [20856]  * "[IP] 192.168.74.72 [Port] 0 [Flags] 2 [Guid] 3889962185 [EditorId] 3889962185 [Version] 1048832 [Id] WindowsEditor(7,Samriddhi) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [20856] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [20856] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.1.1f1 (7197418f847b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/subha/Fav game implement/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 3050 4GB Laptop GPU (ID=0x25ab)
+    Vendor:          NVIDIA
+    VRAM:            3965 MB
+    App VRAM Budget: 3370 MB
+    Driver:          32.0.15.6614
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56560
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.001756 seconds.
+- Loaded All Assemblies, in  0.438 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 329 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.781 seconds
+Domain Reload Profiling: 1217ms
+	BeginReloadAssembly (162ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (170ms)
+		LoadAssemblies (159ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (167ms)
+			TypeCache.Refresh (165ms)
+				TypeCache.ScanAssembly (152ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (781ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (732ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (454ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (68ms)
+			ProcessInitializeOnLoadAttributes (142ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.955 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.885 seconds
+Domain Reload Profiling: 1837ms
+	BeginReloadAssembly (183ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (671ms)
+		LoadAssemblies (455ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (317ms)
+			TypeCache.Refresh (243ms)
+				TypeCache.ScanAssembly (219ms)
+			BuildScriptInfoCaches (56ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (886ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (676ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (148ms)
+			ProcessInitializeOnLoadAttributes (444ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 218 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6367 unused Assets / (4.4 MB). Loaded Objects now: 7081.
+Memory consumption went from 173.2 MB to 168.8 MB.
+Total: 9.356700 ms (FindLiveObjects: 0.574300 ms CreateObjectMapping: 0.534100 ms MarkObjects: 5.644100 ms  DeleteObjects: 2.602900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 95253.862613 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 05px/Rectangle 05r  25t  3s.png
+  artifactKey: Guid(d9d46e1b1f1540e49a32d4d5c4353549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 05px/Rectangle 05r  25t  3s.png using Guid(d9d46e1b1f1540e49a32d4d5c4353549) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'da2681e3d4c87a27db5e4b9f9c065c74') in 0.1173739 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/CorePro/Flat Pack/Icons/Status Weather Elements/Skull 11.png
+  artifactKey: Guid(436aeff6cc059704882dd56694235aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Icons/Status Weather Elements/Skull 11.png using Guid(436aeff6cc059704882dd56694235aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '96db9cde6411c7e5cafb3f8952d71a81') in 0.0127792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/CorePro/Flat Pack/Icons/Shooter/Silencers/Silencer 3.png
+  artifactKey: Guid(55c6af9445e52f6428abfb940f797a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Icons/Shooter/Silencers/Silencer 3.png using Guid(55c6af9445e52f6428abfb940f797a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de4f3623ef3dab9e0925e78e859e9bb1') in 0.0155063 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/CorePro/Flat Pack/Icons/App/Shop 1.png
+  artifactKey: Guid(2e0c1ed5b655ceb439bafcec319229a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Icons/App/Shop 1.png using Guid(2e0c1ed5b655ceb439bafcec319229a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd3b1b6d937863be805f27734db7f785f') in 0.0153616 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/CorePro/Flat Pack/Icons/Shooter/Silencers/Silencer 2.png
+  artifactKey: Guid(4b7123d461b519541a9dd6c75d399956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Icons/Shooter/Silencers/Silencer 2.png using Guid(4b7123d461b519541a9dd6c75d399956) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '18947cc0aed63652cddbd60a5a941bff') in 0.0112927 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/CorePro/Flat Pack/Icons/Food/sushi 1.png
+  artifactKey: Guid(44215a81514efaa4e8c0ef76fbb0408a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Icons/Food/sushi 1.png using Guid(44215a81514efaa4e8c0ef76fbb0408a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '768ada56c3b151ba5576d2490f0748a7') in 0.0105852 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 30px/Rectangle 30r  80t  5s.png
+  artifactKey: Guid(a755baa61fa03654a810aedcff405c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 30px/Rectangle 30r  80t  5s.png using Guid(a755baa61fa03654a810aedcff405c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ace5308b76d992c880d61facd980ecd') in 0.0136534 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 60px/Rectangle 60r  25t  5s.png
+  artifactKey: Guid(79dd7f78ac8e84b46b76585535640d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 60px/Rectangle 60r  25t  5s.png using Guid(79dd7f78ac8e84b46b76585535640d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03d3d1d098df31b9f9557fb697c305d2') in 0.0153913 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 30px/Rectangle 30r  50t  5s.png
+  artifactKey: Guid(a71e11f658109d74cbe34f0539391a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 30px/Rectangle 30r  50t  5s.png using Guid(a71e11f658109d74cbe34f0539391a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '54201a2ef53bf3b07eceac6af9c59568') in 0.0116084 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/CorePro/Flat Pack/Icons/RPG/Ring 5.png
+  artifactKey: Guid(1f26efd10ff6da74885bfaf010da3b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Icons/RPG/Ring 5.png using Guid(1f26efd10ff6da74885bfaf010da3b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5fa9066cc26112edd8ead4501e1c7651') in 0.0109492 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/CorePro/Flat Pack/Icons/Status Weather Elements/Skull 12.png
+  artifactKey: Guid(2bff506d068debb46826d42dad2a903a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Icons/Status Weather Elements/Skull 12.png using Guid(2bff506d068debb46826d42dad2a903a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'deb13716c616805acc8e960f1e395539') in 0.0109898 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 05px/Rectangle 05r  25t  0s - fill.png
+  artifactKey: Guid(3e2724a0d7fd1174b98e4b6014e7cf12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 05px/Rectangle 05r  25t  0s - fill.png using Guid(3e2724a0d7fd1174b98e4b6014e7cf12) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e8dadcfc35c7535db3673ff84b947012') in 0.0147772 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.641083 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 15px/Rectangle 15r  80t  50s.png
+  artifactKey: Guid(2d3612119ab3cf447b44298e7d7a7bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 15px/Rectangle 15r  80t  50s.png using Guid(2d3612119ab3cf447b44298e7d7a7bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc283dc93bcd05ff312461a30815936f') in 0.0095059 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.228032 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 20px/Rectangle 20r  25t  0s - fill.png
+  artifactKey: Guid(9a4c8ade6bbd947408ab72ab3e3ad697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 20px/Rectangle 20r  25t  0s - fill.png using Guid(9a4c8ade6bbd947408ab72ab3e3ad697) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '297921584bb04cd848fafeca65f5378d') in 0.0124748 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.622918 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 20px/Rectangle 20r  100t  20s - frame.png
+  artifactKey: Guid(1357d3832095b544ba3674a84f3abffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 20px/Rectangle 20r  100t  20s - frame.png using Guid(1357d3832095b544ba3674a84f3abffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '965702e7be9856f1a2c62b07ce7c8f56') in 0.0099972 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 30px/Rectangle 30r  0t   0s - fill.png
+  artifactKey: Guid(14d50bfc09b509c4e90a2afa4d7f9715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 30px/Rectangle 30r  0t   0s - fill.png using Guid(14d50bfc09b509c4e90a2afa4d7f9715) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8fe328cec25cc6af46c9253eee8d8915') in 0.0123958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.742344 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 30px/Rectangle 30r  100t  10s - frame.png
+  artifactKey: Guid(322486da6af3afc4db9fda474d6976b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 30px/Rectangle 30r  100t  10s - frame.png using Guid(322486da6af3afc4db9fda474d6976b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5840178608a5c885c2e3a38874879e9e') in 0.0188707 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.526136 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 40px/Rectangle 40r  80t  0s - fill.png
+  artifactKey: Guid(140b552366b393b40b3bf494b787e9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 40px/Rectangle 40r  80t  0s - fill.png using Guid(140b552366b393b40b3bf494b787e9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c45cbae907ac458e8eae50793954ba93') in 0.0205672 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 40px/Rectangle 40r  100t  5s - frame.png
+  artifactKey: Guid(5e7902bd5eaf4394989faf41c0146c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 40px/Rectangle 40r  100t  5s - frame.png using Guid(5e7902bd5eaf4394989faf41c0146c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '395ebaf7af5da4d2acc207b82d91d387') in 0.0139496 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.223772 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 40px/Rectangle 40r  100t  50s - frame.png
+  artifactKey: Guid(19a134c8b8dd8aa46ae4e6be378b13cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 40px/Rectangle 40r  100t  50s - frame.png using Guid(19a134c8b8dd8aa46ae4e6be378b13cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3a6785c0170daa27bf88064155041b4d') in 0.0121695 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.641435 seconds.
+  path: Assets/CorePro/Flat Pack/Icons/Shooter/Rifles/Rifle 2.png
+  artifactKey: Guid(5d3d950333cb8c843a552ea227f17acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Icons/Shooter/Rifles/Rifle 2.png using Guid(5d3d950333cb8c843a552ea227f17acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c804ebefb4bd01002e4a5c772702765b') in 0.0168307 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.303407 seconds.
+  path: Assets/CorePro/Flat Pack/Icons/Shooter/Rifles/Rifle 7.png
+  artifactKey: Guid(2f3f1c9ee0905e3419760cdb631a0150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Icons/Shooter/Rifles/Rifle 7.png using Guid(2f3f1c9ee0905e3419760cdb631a0150) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3ed33653539ba6054e9ae7dc88fae4d8') in 0.025877 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.968469 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 00px/Rectangle 00r  25t  3s.png
+  artifactKey: Guid(7bc08ff7488d2ae44b28fb8801694880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 00px/Rectangle 00r  25t  3s.png using Guid(7bc08ff7488d2ae44b28fb8801694880) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0db8a9e1be9233972d0abee2fb608b6c') in 0.1103476 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 00px/Rectangle 00r  100t   20s - frame.png
+  artifactKey: Guid(bd1f5612b9abe37409c997c465b17137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 00px/Rectangle 00r  100t   20s - frame.png using Guid(bd1f5612b9abe37409c997c465b17137) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3fd5d3612d76b8e61f842f984275943a') in 0.0774503 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 00px/Rectangle 00r  100t   10s - frame.png
+  artifactKey: Guid(ee23552611010ad4f99843ea0579bf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 00px/Rectangle 00r  100t   10s - frame.png using Guid(ee23552611010ad4f99843ea0579bf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fa19aabe3e62621b6f2d9625e3f17b5e') in 0.0207424 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 00px/Rectangle 00r  80t  5s.png
+  artifactKey: Guid(f56a1187bb6356f4fa60a092c2a11d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 00px/Rectangle 00r  80t  5s.png using Guid(f56a1187bb6356f4fa60a092c2a11d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d634ed368b3a76ecb4220008f4e7717') in 0.0100113 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 00px/Rectangle 00r  80t  0s - fill.png
+  artifactKey: Guid(aacd127d3d4ca5244b4ff750d61d35b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Rectangle 512x512 white  frame/Rectangle 512x512 I Round 00px/Rectangle 00r  80t  0s - fill.png using Guid(aacd127d3d4ca5244b4ff750d61d35b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2c9efd2ff5b8af84443596989dc5fd1a') in 0.0128734 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

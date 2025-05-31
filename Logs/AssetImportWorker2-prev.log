@@ -1,0 +1,562 @@
+Using pre-set license
+Built from '6000.1/staging' branch; Version is '6000.1.1f1 (7197418f847b) revision 7444289'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 16050 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+Date: 2025-05-31T12:26:38Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.1.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/subha/Fav game implement
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+51971
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/subha/Fav game implement
+C:/Users/subha/Fav game implement
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [10040]  Target information:
+
+Player connection [10040]  * "[IP] 192.168.74.72 [Port] 0 [Flags] 2 [Guid] 794611853 [EditorId] 794611853 [Version] 1048832 [Id] WindowsEditor(7,Samriddhi) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [10040] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [10040] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 7.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.1.1f1 (7197418f847b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/subha/Fav game implement/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 3050 4GB Laptop GPU (ID=0x25ab)
+    Vendor:          NVIDIA
+    VRAM:            3965 MB
+    App VRAM Budget: 3370 MB
+    Driver:          32.0.15.6614
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56520
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.001710 seconds.
+- Loaded All Assemblies, in  0.529 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 235 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.577 seconds
+Domain Reload Profiling: 1103ms
+	BeginReloadAssembly (250ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (179ms)
+		LoadAssemblies (247ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (175ms)
+			TypeCache.Refresh (173ms)
+				TypeCache.ScanAssembly (162ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (577ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (538ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (312ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (42ms)
+			ProcessInitializeOnLoadAttributes (125ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.797 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.636 seconds
+Domain Reload Profiling: 1430ms
+	BeginReloadAssembly (196ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (529ms)
+		LoadAssemblies (434ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (204ms)
+			TypeCache.Refresh (154ms)
+				TypeCache.ScanAssembly (139ms)
+			BuildScriptInfoCaches (38ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (637ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (471ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (106ms)
+			ProcessInitializeOnLoadAttributes (306ms)
+			ProcessInitializeOnLoadMethodAttributes (43ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 204 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6366 unused Assets / (3.2 MB). Loaded Objects now: 7066.
+Memory consumption went from 170.6 MB to 167.3 MB.
+Total: 6.553000 ms (FindLiveObjects: 0.560300 ms CreateObjectMapping: 0.486600 ms MarkObjects: 3.740100 ms  DeleteObjects: 1.764700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 92889.441087 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Custom Rects
+  artifactKey: Guid(c835cf7de0038cc45968ca8a3bb06a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Custom Rects using Guid(c835cf7de0038cc45968ca8a3bb06a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f09ed8c985ccf5bda80f4915c4084f0e') in 0.0131195 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045215 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Custom Rects/A regular octagon.png
+  artifactKey: Guid(7e0e8ffe57f16074faa72b3ff9ab1006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Custom Rects/A regular octagon.png using Guid(7e0e8ffe57f16074faa72b3ff9ab1006) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21bf6a17cb15e970ea7802352076c4b7') in 0.1220856 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Custom Rects/Square with one truncated corner - outline 10 - frame.png
+  artifactKey: Guid(1b3a3b56afbb17046a837c5575620ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Custom Rects/Square with one truncated corner - outline 10 - frame.png using Guid(1b3a3b56afbb17046a837c5575620ad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6bf4a2f027669609937e464f4897aa06') in 0.0113883 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Custom Rects/A regular octagon - outline 20.png
+  artifactKey: Guid(3fbbd761dca5fe747804ccd10f073d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Custom Rects/A regular octagon - outline 20.png using Guid(3fbbd761dca5fe747804ccd10f073d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '98fa16ec9b186658eab978962e964b57') in 0.010046 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Custom Rects/Square with one truncated corner -outline 5 - frame.png
+  artifactKey: Guid(e2edd51c398ecc446a71a7716db84f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Custom Rects/Square with one truncated corner -outline 5 - frame.png using Guid(e2edd51c398ecc446a71a7716db84f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7b474eb19ff539ce4f26ee494748761c') in 0.011836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Custom Rects/Square with one truncated corner -outline 5.png
+  artifactKey: Guid(7e09499e542c9f944be00153a3723b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Custom Rects/Square with one truncated corner -outline 5.png using Guid(7e09499e542c9f944be00153a3723b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4f8ce3da7c3ca8d8856f14e9b98e52e') in 0.0123692 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Custom Rects/A regular octagon - outline 20  - frame.png
+  artifactKey: Guid(b2652910a0327ed4da6db374fd9dbe1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Custom Rects/A regular octagon - outline 20  - frame.png using Guid(b2652910a0327ed4da6db374fd9dbe1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4fe1635eb2e2608aff7f4a09c3a24e26') in 0.0120299 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.012586 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Dialogs
+  artifactKey: Guid(6e95f43f524025a4eb84e6feb5381e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Dialogs using Guid(6e95f43f524025a4eb84e6feb5381e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e2427b21351ba12d7ef885d84e03787c') in 0.0005652 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035488 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Dialogs/Dialog 1.png
+  artifactKey: Guid(e4e24dec3f9c11b4ab028be73b89d7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Dialogs/Dialog 1.png using Guid(e4e24dec3f9c11b4ab028be73b89d7f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5d6662942395a97e6618b911d0996613') in 0.060885 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Dialogs/Dialog 4 - frame.png
+  artifactKey: Guid(91ff4c8fdd8a4794bbb4e07511b28326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Dialogs/Dialog 4 - frame.png using Guid(91ff4c8fdd8a4794bbb4e07511b28326) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '66b874e5323ac58a2a0fd159b44c83ce') in 0.0608205 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Dialogs/Dialog 3.png
+  artifactKey: Guid(54e6ec99ff771c745a109bac93b1e389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Dialogs/Dialog 3.png using Guid(54e6ec99ff771c745a109bac93b1e389) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e4f0f65a1c36bcc337a6111150a160d') in 0.0424197 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.606132 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Hexagons
+  artifactKey: Guid(95a4e45b4c90e1945aae071b3061b7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Hexagons using Guid(95a4e45b4c90e1945aae071b3061b7ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69dccde2d4c7b9f8ae957bfc566bf8ef') in 0.0005119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047720 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Hexagons/Hexagon A.png
+  artifactKey: Guid(8f08f62d5412b5b49825997491bafcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Hexagons/Hexagon A.png using Guid(8f08f62d5412b5b49825997491bafcb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f3c3eb69699e5504247f92e3ff0ab79') in 0.0627201 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Hexagons/Hexagon B - frame outline 20.png
+  artifactKey: Guid(bc4ef4c6f242c0545a28ae94b2ccb4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Hexagons/Hexagon B - frame outline 20.png using Guid(bc4ef4c6f242c0545a28ae94b2ccb4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '34f5c31eca36e90b8f449b02d7d2e96a') in 0.0548475 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Hexagons/Hexagon A - outline 20.png
+  artifactKey: Guid(2824dddfdbc4b734a8c9e90489b116cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Hexagons/Hexagon A - outline 20.png using Guid(2824dddfdbc4b734a8c9e90489b116cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c7ad52da6b8a30cc4d29f418cb7ab6df') in 0.058239 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Hexagons/Hexagon B - frame outline 5.png
+  artifactKey: Guid(c325c786946de1947929b3fa89005fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Hexagons/Hexagon B - frame outline 5.png using Guid(c325c786946de1947929b3fa89005fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f35a04a5401fa6346bd900e14f8e4d1d') in 0.0098996 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.093320 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Modern
+  artifactKey: Guid(281289e8f7e9b1e42863f2928d323883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Modern using Guid(281289e8f7e9b1e42863f2928d323883) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1df62bb571c77c9c73dd105030c982fa') in 0.0004911 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043650 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 1.png
+  artifactKey: Guid(31b0ba378fe9ee54684f83719cf0bcda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 1.png using Guid(31b0ba378fe9ee54684f83719cf0bcda) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '59e14ce23c4a8a29e7a15b83412ac6b3') in 0.0514624 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 3.png
+  artifactKey: Guid(3287478c8424d9c438821686803d993c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 3.png using Guid(3287478c8424d9c438821686803d993c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c7bf6b01f0bd7dd037f8a724e3317a8') in 0.0706436 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 11b.png
+  artifactKey: Guid(c0c91805f12533b42b22c6fa9dbb0b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 11b.png using Guid(c0c91805f12533b42b22c6fa9dbb0b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e24a230aefe0822ecac555d360c0a745') in 0.0146178 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Modern/Rect modern 7 - base.png
+  artifactKey: Guid(86a9ffb3263d99e4eaac875b3913c8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Modern/Rect modern 7 - base.png using Guid(86a9ffb3263d99e4eaac875b3913c8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '350721d5a68ac61794b05c463fa11caf') in 0.0114626 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Modern/Rect modern 8.png
+  artifactKey: Guid(87b8f1846f7889543a16c401803a3b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Modern/Rect modern 8.png using Guid(87b8f1846f7889543a16c401803a3b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '919531557f7ce2e79dbb3ba362cee640') in 0.0124301 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 9b.png
+  artifactKey: Guid(4a3a15967b3cd2744a35a1a0fbb8bb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 9b.png using Guid(4a3a15967b3cd2744a35a1a0fbb8bb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ebeca0b25866810353137a2c75eb1cf') in 0.010568 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 4 - base.png
+  artifactKey: Guid(1a3828d43d3ee554faafae5ee5993356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 4 - base.png using Guid(1a3828d43d3ee554faafae5ee5993356) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2fb26e027aebd68d8aefe561d673fb10') in 0.009768 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 5a.png
+  artifactKey: Guid(6c701136d7744094aab101dbaa890069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 5a.png using Guid(6c701136d7744094aab101dbaa890069) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9aef86cd6e88f2cd25cfe2c2954f0429') in 0.0125438 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.517890 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 11c.png
+  artifactKey: Guid(e7f927ca89a53ec41bb4ba40e336fa88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 11c.png using Guid(e7f927ca89a53ec41bb4ba40e336fa88) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '91f33b2aef1d3f5b6855e88613e85808') in 0.0139617 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 15.png
+  artifactKey: Guid(f2513cebd36053d44b507dd8666382e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Modern/Rect Modern 15.png using Guid(f2513cebd36053d44b507dd8666382e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b0a0a03748afd130bb1006e10a726ef') in 0.0106651 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.450411 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Other
+  artifactKey: Guid(b7849a013b278454da3a3804fb018b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Other using Guid(b7849a013b278454da3a3804fb018b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ec1c25d1a561e5aa30b66ca9f8389ada') in 0.0005352 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042737 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Other/Rhombus 3D.png
+  artifactKey: Guid(893aee573980054488efa8a04e5276e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Other/Rhombus 3D.png using Guid(893aee573980054488efa8a04e5276e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff9645f1fb4481c7b06e7c211bdab21e') in 0.0417268 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.146045 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts
+  artifactKey: Guid(003510691527e2c42a2b1506e10d94dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts using Guid(003510691527e2c42a2b1506e10d94dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8206b1ac996a82b13e4c7da67fd6ed27') in 0.0005476 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.967656 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato
+  artifactKey: Guid(5a9bd503574ce6e4eac7a9b2b3e99ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato using Guid(5a9bd503574ce6e4eac7a9b2b3e99ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '051d3c864a8e691f9596bf3f6c8071d5') in 0.0004802 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052206 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/Lato-Black SDF.asset
+  artifactKey: Guid(03f780b01b9b2e640984a49e5a44edd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/Lato-Black SDF.asset using Guid(03f780b01b9b2e640984a49e5a44edd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3ec5f868e5632e34690ad58bc912665b') in 0.5344974 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/Lato-Light SDF.asset
+  artifactKey: Guid(4e26f9a17e3f6d947ae648e4d8585919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/Lato-Light SDF.asset using Guid(4e26f9a17e3f6d947ae648e4d8585919) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '025f83522daacc4e9a635f80b88095e2') in 0.0374575 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/Lato-MediumItalic SDF.asset
+  artifactKey: Guid(f20a6bb0b484f3549b9cbe253524fadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/Lato-MediumItalic SDF.asset using Guid(f20a6bb0b484f3549b9cbe253524fadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '77ce357ca50ec49d274cf1153aa5e092') in 0.0290474 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/Lato-HairlineItalic SDF.asset
+  artifactKey: Guid(cb62a3f04deba5e4cb4877a3ae2a834b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/Lato-HairlineItalic SDF.asset using Guid(cb62a3f04deba5e4cb4877a3ae2a834b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13c9dca12a1a424015935a53291c4c19') in 0.0231002 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.148276 seconds.
+  path: Assets/CorePro/Flat Pack/OptionalAssets
+  artifactKey: Guid(5f81dfeeae2544a4d959f2573bba4077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/OptionalAssets using Guid(5f81dfeeae2544a4d959f2573bba4077) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6ba3d7b1f82d7322107f9da86c3c85bc') in 0.0016282 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.184912 seconds.
+  path: Assets/CorePro/Flat Pack/Shapes/Examples 1.unity
+  artifactKey: Guid(7f0292075c65e2e40929ab70975a4245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Shapes/Examples 1.unity using Guid(7f0292075c65e2e40929ab70975a4245) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f87787b49e2369efff0f7a5c3016158b') in 0.0006896 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 188.326284 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Medium.ttf
+  artifactKey: Guid(ed0b0e0525efa7c468ed825419c731d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Medium.ttf using Guid(ed0b0e0525efa7c468ed825419c731d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b05da529ed47d6269ec87a4a1da55fd0') in 0.0264338 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-ThinItalic.ttf
+  artifactKey: Guid(e69910eb4b6f74a41b40ea144b80971a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-ThinItalic.ttf using Guid(e69910eb4b6f74a41b40ea144b80971a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef62203b7b410bc5b3409e3296e00baf') in 0.0260973 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Thin.ttf
+  artifactKey: Guid(d46ef5fd22e3a09489525aeb8e563477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Thin.ttf using Guid(d46ef5fd22e3a09489525aeb8e563477) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '97857b70ce50121f4869fb8eabe964bf') in 0.0281236 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Regular.ttf
+  artifactKey: Guid(c2c57b1b4f9d3704d9f357891b58e39c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Regular.ttf using Guid(c2c57b1b4f9d3704d9f357891b58e39c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9697bed2cef425f2f81ae0da5fc1d732') in 0.0128558 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.765880 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Light.ttf
+  artifactKey: Guid(57de71f3158ad8c448b04e1dd75455b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Light.ttf using Guid(57de71f3158ad8c448b04e1dd75455b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dfe68c6e485e4b3cfcd51f7b83b06ffc') in 0.0147552 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Italic.ttf
+  artifactKey: Guid(e4d9c3f60b0cee24486b858dcd4b4798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-Italic.ttf using Guid(e4d9c3f60b0cee24486b858dcd4b4798) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a9dc3e22d0e68d546294ac38b812d9fc') in 0.0143893 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024618 seconds.
+  path: Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-HairlineItalic.ttf
+  artifactKey: Guid(46f207f583eaacf4b964665a9f8dd458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CorePro/Flat Pack/Fonts/lato/TTF/Lato-HairlineItalic.ttf using Guid(46f207f583eaacf4b964665a9f8dd458) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '75d4bf2702905552a870a984fa4f32ef') in 0.0150209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
